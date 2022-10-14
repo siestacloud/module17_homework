@@ -45,4 +45,4 @@ yarn test
     ```
 - после чего создаем файл babel.config.js
 
-### Доп [ссылка на статью](https://telegra.ph/Nodejs-npm-yarn-install-10-14)
+### Доп [ссылка на статью личной вики](https://telegra.ph/Nodejs-npm-yarn-install-10-14)
