@@ -20,7 +20,7 @@ node --version
 ```
 
 
-Установка фреймворка тестирования `jest`
+## Установка фреймворка тестирования `jest`
 ```
 npm install --save-dev jest
 or
