@@ -44,5 +44,11 @@ yarn test
     yarn add --dev babel-jest @babel/core @babel/preset-env
     ```
 - после чего создаем файл babel.config.js
+```
+// запуск тестов jest для формата js ES6
+module.exports = {
+    presets: [['@babel/preset-env', {targets: {node: 'current'}}]],
+  };
+```
 
-### Доп [ссылка на статью в личной вики](https://telegra.ph/Nodejs-npm-yarn-install-10-14)
+ Доп [ссылка на статью в личной вики](https://telegra.ph/Nodejs-npm-yarn-install-10-14)
