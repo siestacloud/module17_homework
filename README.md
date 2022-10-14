@@ -20,7 +20,7 @@ node --version
 ```
 
 
-Установка фрейворка тестирования `jest`
+Установка фреймворка тестирования `jest`
 ```
 npm install --save-dev jest
 or
@@ -45,5 +45,4 @@ yarn test
     ```
 - после чего создаем файл babel.config.js
 
-##№ Доп ссылка 
- - Доп [ссылка на статью](https://telegra.ph/Nodejs-npm-yarn-install-10-14)
+### Доп [ссылка на статью](https://telegra.ph/Nodejs-npm-yarn-install-10-14)
